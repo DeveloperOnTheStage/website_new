@@ -1,0 +1,34 @@
+"Developer on the Stage":
+  name: book
+  icon: book
+  short: |
+    Das Buch für Entwickler, die den Schritt auf die Bühne wagen wollen.
+  description: |
+    Dieses Buch begleitet dich bei deinem allerersten Auftritt auf der Bühne. Es wird dir dabei helfen, die passende Idee zu finden, deine Gedanken zu strukturieren und einen Vortrag zu gestalten, der nicht nur lehrreich ist, sondern auch deine persönlichen Erfahrungen reflektiert. Du wirst die verschiedenen Arten von Konferenzen und Vorträgen kennenlernen, und erfährst, wie du einen Platz bei einer Veranstaltung bekommen kannst. Zahlreiche kleine, jedoch bedeutsame Gewohnheiten für den Auftritt auf der Bühne unterstützen dich bei einer gründlichen Vorbereitung. Zusätzlich erhältst du Einblicke darüber, wie du das Beste aus dieser Erfahrung herausholen kannst, indem du nach deinem Vortrag die entsprechenden Schritte unternimmst.
+"Sich ausprobieren":
+  name: platforms
+  icon: flag-checkered
+  description: |
+              Meetups/Usergroups und bestimmte Konferenzen helfen
+              Newcomern bei den ersten Schritten auf der Bühne. Hier 
+              haben wir Plattformen gesammelt, über die Du Deine ersten Auftritte planen kannst.
+"SpeaKonf":
+  name: unkonf
+  icon: microphone
+  description: |
+    Die Unkonferenz von Sprechern für Sprecher - Austausch zu allen Themen rund um Fragen vor, während und nach den Auftritten bei Konferenzen und User-Groups.
+"Coachings und Impulse":
+  name: coachings
+  icon: hand-holding-hand
+  description: | 
+    Impulsvorträge, Online Coaching Sessions und Workshops 
+"Community-Austausch":
+  name: community
+  icon: people-group
+  description: | 
+    Community-Austausch
+"Inhalte zum Teilen":
+  name: content 
+  icon: truck
+  description: | 
+    Blog und Youtube
