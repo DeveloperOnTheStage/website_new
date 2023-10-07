@@ -28,7 +28,7 @@ slogan: >-
   Wir bieten allen Interessierten verschiedene Möglichkeiten
   für die persönliche Weiterentwicklung an. Klickt auf die Blöcke, um mehr zu erfahren.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "tech2talk.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tech2talk.de"
 twitter_username: tech2talk
 github_username:  tech2talk
 
