@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tech2Speak
-email: info@tech2speak.com
+title: Tech2Talk
+email: info@tech2talk.de
 description: >- # this means to ignore newlines until "baseurl:"
   Die Community für alle, die Wissen teilen wollen um
   etwas zurückzugeben sowie selbst zu lernen 
@@ -28,9 +28,9 @@ slogan: >-
   Wir bieten allen Interessierten verschiedene Möglichkeiten
   für die persönliche Weiterentwicklung an. Klickt auf die Blöcke, um mehr zu erfahren.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "tech2speak.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tech2speak
-github_username:  tech2speak
+url: "tech2talk.de" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: tech2talk
+github_username:  tech2talk
 
 # Build settings
 #theme: minima
