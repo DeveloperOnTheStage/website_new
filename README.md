@@ -16,4 +16,18 @@ To restart the container, run
 ./restart-local-jekyll.sh
 ```
 
+## Deployment
 
+To build this website, run:
+
+```
+gem install bundler
+```
+
+```
+bundle install --path vendor
+```
+
+```
+bundle exec jekyll build -d public
+```

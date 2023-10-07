@@ -9,3 +9,6 @@ vendor/
 # Ignore IDEA files
 .idea/
 *.iml
+
+# Ignore output
+public
