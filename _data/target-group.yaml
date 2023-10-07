@@ -1,14 +1,21 @@
-"Entwickler": |
-  ""
-"Architekten": |
-  ""
-"DevOps und Betriebler": |
-  ""
-"Tester": |
-  ""
-"Product Owner": |
-  ""
-"Scrum Master": |
-  ""
-"IT Manager": |
-  ""
+"Entwickler":
+  cause: |
+    ... weil tief-technische Themen verständlich vermittelt werden müssen.
+"Architekten":
+  cause: |
+    ... weil wichtige Architektur-Entscheidungen an Entwickler und Kunden kommuniziert werden müssen.
+"DevOps und Betriebler":
+  cause: |
+    ... weil die Zusammenarbeit zwischen Entwicklung und Betrieb in Zeiten von DevOps und selbstorganisierenden Teams immer wichtiger wird.
+"Tester":
+  cause: |
+    ... weil die Qualitätssicherung ein wichtiger Bestandteil der Softwareentwicklung ist und Findings verständlich kommuniziert werden müssen.
+"Product Owner":
+  cause: |
+    ... weil die Produktvision und -strategie nachvollziehbar und begeistern vermittelt werden wollen.
+"Scrum Master":
+  cause: |
+    ... weil die Scrum-Prinzipien und -Werte tagtäglich gelebt werden müssen.
+"IT Manager":
+  cause: |
+    ... weil Strategien und Entscheidungen in die Köpfe aller beteiligten gebracht werden müssen.
