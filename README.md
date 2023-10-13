@@ -21,13 +21,5 @@ To restart the container, run
 To build this website, run:
 
 ```
-gem install bundler
-```
-
-```
-bundle install --path vendor
-```
-
-```
-bundle exec jekyll build -d public
+./build-locally.sh
 ```
