@@ -21,9 +21,9 @@
 title: Tech2Talk
 email: info@tech2talk.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Die Community für alle in der Technologie-Branche arbeitenden Personen, die ihr Wissen mit Vorträgen teilen wollen.
+  Wir unterstützen in der Technologie-Branche arbeitende Personen dabei, ihr Wissen mittels Vorträgen zu teilen. So fördern wir eine lebendige Community, den Austausch untereinander, persönliche Weiterentwicklung und aktives Lernen.
 slogan: >-
-  Wir bauen die Kompetenzen neuer und erfahrener Vortragender auf und aus.
+  Wir bauen die Kompetenzen neuer und erfahrener Vortragender aus.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tech2talk.de"
 twitter_username: tech2talk

@@ -1,32 +1,32 @@
-"Developer on the Stage":
+"Das Buch":
   name: book
   icon: book
   short: |
-    Als kompakte Zusammenfassung unserer jahrelangen Erfahrung enthält dieses Buch alle wichtigen Schritte für deinen ersten Vortrag.
+    Als kompakte Zusammenfassung unserer jahrelangen Erfahrung enthält das Buch "Developer on the Stage" alle wichtigen Schritte für deinen ersten Vortrag.
   description: |
     Dieses Buch begleitet dich bei deinen ersten Auftritten auf der Bühne. Es hilft dir beim Finden deines Vortragsthemas, der Strukturierung deiner Inhalte und der Gestaltung deines Vortrages. Lerne die verschiedenen Arten von Konferenzen und Vorträgen kennen und finde die für dich passende Veranstaltung. Zahlreiche einfach anzuwendende Gewohnheiten helfen dir, ein routinierter Speaker zu werden.
-"Vorträge":
+"Die Impulsvorträge":
   name: talks
   icon: flag-checkered
   description: |
     Unsere bereits ausgearbeiteten und auf diversen Konferenzen erprobten Vorträge können wir zeitnah auch auf deiner Konferenz oder User Group halten!
-"Unterstützung der SpeaKonf":
+"Die Unkonferenz":
   name: unkonf
   icon: microphone
   description: |
-    Wir unterstützen die Unkonferenz von Sprechern für Sprecher, da sie eine perfekte Ergänzung zu unserem Angebot ist.
-"Coachings und Impulse":
+    Wir organisieren den größten Austausches von Sprechern für Sprecher Deutschlands.
+"Die Coachings":
   name: coachings
   icon: hand-holding-hand
   description: | 
     Auf der Suche nach individuellem Speaker-Coaching? Wir beraten dich bei der konkreten Vorbereitung deines speziellen Vortrages.
-"Community via Discord":
+"Die Community":
   name: community
   icon: people-group
   description: | 
     In unserem Discord-Kanal kannst du dich über deine Vortragsthemen austauschen, Feedback zu Titeln und Abstract einholen und dir allgemeine Tipps geben lassen.
-"Inhalte zum Ansehen und Teilen":
+"Die Inhalte":
   name: materials
   icon: truck
-  description: | 
-    Hier findet ihr unsere frei verfügbaren Materialien.
+  description: |
+    Hier findest du frei verfügbare Materialien, sodass sich jeder selbst die Grundlagen des Sprechens beibringen kann.
