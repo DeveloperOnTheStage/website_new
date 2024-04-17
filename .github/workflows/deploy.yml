@@ -29,6 +29,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: List public directory contents
+        run: ls -la public/
+
       - name: Push files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
