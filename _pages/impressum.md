@@ -5,6 +5,8 @@ permalink: /impressum/
 ---
 # Impressum
 
+Tech2Talk ist eine Initiative des IT Hub e.V. und wird von diesem betrieben. Der IT Hub e.V. ist ein gemeinnütziger Verein, der sich für die Förderung der IT-Community einsetzt.
+
 Angaben gemäß § 5 TMG  
 **IT Hub e.V.**  
 Garßenhof 19  
