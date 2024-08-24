@@ -1,0 +1,19 @@
+<section id="audience-section" class="audience-section py-5">
+    <div class="container">
+        <h2 class="section-heading text-center mb-4">Unsere Zielgruppe</h2>
+        <div class="section-intro single-col-max mx-auto text-center mb-5">
+            Mit unseren Angeboten richten wir uns an:
+        </div><!--//section-intro-->
+        <div class="audience mx-auto">
+            {% for target-person in site.data.target-group %}
+            <div class="item row gx-3">
+                <div class="col-auto item-icon"><i class="fas fa-user-check"></i></div>
+                <div class="col">
+                    <h4 class="item-title">{{ target-person[0] }}</h4>
+                    <div class="item-desc">{{ target-person[1].cause}}</div>
+                </div><!--//col-->
+            </div><!--//item-->
+            {% endfor %}
+        </div><!--//audience-->
+    </div><!--//container-->
+</section><!--//audience-section-->
