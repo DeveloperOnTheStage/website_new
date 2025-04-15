@@ -23,7 +23,7 @@ email: info@tech2talk.de
 description: >- # this means to ignore newlines until "baseurl:"
   Wir unterstützen in der Technologie-Branche arbeitende Personen dabei, ihr Wissen mittels Vorträgen zu teilen. So fördern wir eine lebendige Community, den Austausch untereinander, persönliche Weiterentwicklung und aktives Lernen.
 special: >- # this means to ignore newlines until "baseurl:"
-  Am 06., 13., 20. und 27.11.2024 findet unser Online-Kurs statt. Mehr Informationen unter den Coachings.
+  Online-Kurse finden auf Anfrage statt. Schreib uns einfach eine Mail an <a href="mailto:info@tech2talk.de">info@tech2talk.de</a>!
 slogan: >-
   Wir bauen die Kompetenzen neuer und erfahrener Vortragender aus.
 baseurl: "" # the subpath of your site, e.g. /blog
