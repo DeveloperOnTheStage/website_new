@@ -25,7 +25,7 @@ Registergericht: Braunschweig
 Registernummer: VR 201868  
 
 **Kontakt:**  
-Telefon: 0151-17437348  
+Telefon: +49 152 039 577 10
 E-Mail: <a href='mailto:vorstand@ithubbs.de' title="E-Mail an den Vorstand senden">vorstand@ithubbs.de</a>
 
 
